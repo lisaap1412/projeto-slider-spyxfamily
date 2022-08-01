@@ -1,1 +1,12 @@
-# projeto-slider-spyxfamily
+# <p align='center'><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee032ea8-c7a4-40d7-9b43-8279f65a938d/df3yecq-5f7aa366-ab66-439d-b463-02b7e4d4cb51.png/v1/fill/w_1280,h_1744,strp/anya_by_rulacloi_df3yecq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc0NCIsInBhdGgiOiJcL2ZcL2VlMDMyZWE4LWM3YTQtNDBkNy05YjQzLTgyNzlmNjVhOTM4ZFwvZGYzeWVjcS01ZjdhYTM2Ni1hYjY2LTQzOWQtYjQ2My0wMmI3ZTRkNGNiNTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8hyMJOunXrSHHmxSZkyj4tvJBkvAC70HAHWUJbY1KGY" alt="Image" height="60" width="50" >𝑷𝒓𝒐𝒋𝒆𝒕𝒐 𝑺𝒍𝒊𝒅𝒆𝒓 𝒅𝒆 𝑺𝒑𝒚 𝒙 𝑭𝒂𝒎𝒊𝒍𝒚 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac03a17e-589d-4ac1-952a-4185d1070994/df4z5mk-457df763-05f4-456f-be68-3bf6517e5b3d.png/v1/fill/w_1280,h_1494,strp/spy_x_family_render__dami__by_minhchauk1k_df4z5mk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ5NCIsInBhdGgiOiJcL2ZcL2FjMDNhMTdlLTU4OWQtNGFjMS05NTJhLTQxODVkMTA3MDk5NFwvZGY0ejVtay00NTdkZjc2My0wNWY0LTQ1NmYtYmU2OC0zYmY2NTE3ZTViM2QucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xBEO4kUCldz5mB43uvn-gG0FmMivFNL1kQk4hPHIdAI" alt="Image" height="50" width="50" >
+<p align='center'>
+𝑨𝒑𝒓𝒆𝒏𝒅𝒊 𝒂 𝒇𝒂𝒛𝒆𝒓 𝒖𝒎 𝒄𝒂𝒓𝒓𝒐𝒔𝒔𝒆𝒍 𝒆 𝒄𝒓𝒊𝒓𝒂 𝒄𝒐𝒎𝒐 𝒔𝒆 𝒇𝒐𝒔𝒔𝒆𝒎 𝒄𝒂𝒓𝒕𝒂𝒔 𝒅𝒆 𝒑𝒐𝒅𝒆𝒓𝒆𝒔 𝒄𝒐𝒎𝒐 𝒋𝒐𝒈𝒂𝒗𝒂𝒎𝒐𝒔 𝒂𝒏𝒕𝒊𝒈𝒂𝒎𝒆𝒏𝒕𝒆, 𝒏𝒆𝒔𝒕𝒂𝒔 𝒄𝒂𝒓𝒕𝒂𝒔 𝒑𝒐𝒔𝒔𝒖𝒊𝒆𝒎 𝒂𝒔 𝒄𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒈𝒆𝒎 𝒆 𝒂 𝒗𝒊𝒅𝒂 𝒅𝒆𝒍𝒆.𝑯𝒂́ 𝒆𝒎 𝒃𝒂𝒊𝒙𝒐 𝒖𝒎 𝒆𝒙𝒆𝒎𝒑𝒍𝒐 𝒅𝒆𝒔𝒕𝒂𝒔 𝒄𝒂𝒓𝒕𝒂𝒔 𝒒𝒖𝒆 𝒇𝒐𝒊 𝒇𝒆𝒊𝒕𝒂 𝒑𝒐𝒓 𝒎𝒊𝒎, 𝒒𝒖𝒆 𝒆́ 𝒊𝒏𝒔𝒑𝒊𝒓𝒂𝒅𝒐 𝒏𝒐 𝒂𝒏𝒊𝒎𝒆 𝑺𝒑𝒚 𝒙 𝑭𝒂𝒎𝒊𝒍𝒚 𝒅𝒂 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒈𝒆𝒎 𝑨𝒏𝒚𝒂 .
+
+
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/99884118/182211152-6235d711-28f7-45f3-9525-185d5f632455.png" alt="Image" height="300" width="600" >
+<p align='center'>
+
+#  <p align='center'>𝑶𝒃𝒓𝒊𝒈𝒂𝒅𝒐 𝒑𝒐𝒓 𝒑𝒆𝒍𝒂 𝒗𝒊𝒔𝒊𝒕𝒂 
+<p align='center'><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c56bfd2-8210-442a-93b2-c9bee1d616ee/df44otk-49555eb0-b8b2-482c-ac09-8fa675402030.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljNTZiZmQyLTgyMTAtNDQyYS05M2IyLWM5YmVlMWQ2MTZlZVwvZGY0NG90ay00OTU1NWViMC1iOGIyLTQ4MmMtYWMwOS04ZmE2NzU0MDIwMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dr7sgshPYjNJrUNOBmmzm07eW-nf0VIfpK5la1Kb-Nw" alt="Image" height="300" width="300" >
+
